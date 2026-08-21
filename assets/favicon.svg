@@ -1,9 +1,6 @@
-<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-  <rect width="120" height="120" rx="22" fill="#0B1F2E"/>
-  <circle cx="60" cy="60" r="46" fill="none" stroke="#C9A227" stroke-width="4"/>
-  <g stroke="#F6F1E4" stroke-width="7" stroke-linecap="square" fill="none">
-    <path d="M 40,82 L 40,38"/>
-    <path d="M 40,38 L 80,82"/>
-    <path d="M 80,82 L 80,38"/>
-  </g>
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nevlox">
+  <rect width="64" height="64" rx="14" fill="#0B1F2E"/>
+  <circle cx="32" cy="32" r="25" fill="none" stroke="#C9A227" stroke-width="2.2"/>
+  <path d="M20 44V20L44 44V20" fill="none" stroke="#F6F1E4" stroke-width="4.6" stroke-linecap="square" stroke-linejoin="miter"/>
+  <g fill="#C9A227"><circle cx="32" cy="7" r="1.7"/><circle cx="32" cy="57" r="1.7"/></g>
 </svg>
